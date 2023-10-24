@@ -11,8 +11,7 @@ const data = {
   )}`,
   github: chalk.gray("https://github.com/") + chalk.blue("MaySi11"),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyanBright("May_Si_"),
-  linkedin:
-    chalk.gray("https://linkedin.com/in/") + chalk.green("mayank-s-099b75201"),
+  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.green("maysi"),
   web: chalk.cyan("https://anoroc.win/"),
 
   npx: chalk.red("npx maysi"),
