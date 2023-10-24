@@ -1,0 +1,33 @@
+{
+  "name": "maysi",
+  "version": "1.0.0",
+  "description": "A personal card for MaySi (@May_Si_)",
+  "main": "card.js",
+  "type": "module",
+  "bin": {
+    "maysi": "./card.js"
+  },
+  "scripts": {
+    "test": "node card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaySi11/npx-maysi.git"
+  },
+  "keywords": [
+    "business card",
+    "npm card",
+    "npm",
+    "npx"
+  ],
+  "author": "maysi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaySi11/npx-maysi/issues"
+  },
+  "homepage": "https://github.com/MaySi11/npx-maysi#readme",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  }
+}
